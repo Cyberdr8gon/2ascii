@@ -1,0 +1,9 @@
+# Vim
+*.swp
+*.un
+*~
+
+build/
+ext/
+
+!ext/gtest/CMakeLists.txt
